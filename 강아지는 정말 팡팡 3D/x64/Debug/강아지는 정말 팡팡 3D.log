@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\block.h(388,7): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\block.h(389,8): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\block.h(390,8): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\block.h(391,7): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\main.cpp(271,27): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\main.cpp(272,27): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\main.cpp(273,27): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\main.cpp(462,25): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\main.cpp(463,25): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\main.cpp(464,25): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\main.cpp(842,6): warning C4101: 'ok' :참조되지 않은 지역 변수입니다.
+  강아지는 정말 팡팡 3D.vcxproj -> C:\Users\nahyu\OneDrive\GitHud\whdrkdsoshk\CG_project\강아지는 정말 팡팡 3D\x64\Debug\강아지는 정말 팡팡 3D.exe
